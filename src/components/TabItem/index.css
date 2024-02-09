@@ -1,0 +1,23 @@
+.tab-btn {
+  border: 0px;
+  border-bottom: 2px solid #dfe2e5;
+  cursor: pointer;
+  outline: none;
+  font-size: 14px;
+  color: #7b8794;
+  padding: 5px;
+  width: 60px;
+  background-color: transparent;
+}
+.active-tab-btn {
+  color: #2563eb;
+  border-bottom: 2px solid #2563eb;
+  padding-bottom: 7px;
+}
+
+@media (min-width: 576px) {
+  .tab-btn {
+    width: 80px;
+    font-size: 15px;
+  }
+}
