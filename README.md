@@ -1,7 +1,3 @@
-###
-mydeployed project link : https://appstoreanths.ccbp.tech/
-###
-
 In this project, let's build an **App Store** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
